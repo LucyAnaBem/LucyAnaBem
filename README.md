@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucyAnaBem O/
 - 👀 I’m interested in programming and <3 Harry Styles <3
 - 🌱 I’m currently learning JavaScript :)
-- 💞️ I’m looking to collaborate on anything ~(^_^)~
+- 💞️ I’m looking to collaborate on anything (^_^)
 - 📫 How to reach me - just don't :D 
 
 <!---
