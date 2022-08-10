@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucyAnaBem
-- 👀 I’m interested in programming and Harry Styles <3
+- 👀 I’m interested in programming and <3 Harry Styles <3
 - 🌱 I’m currently learning .html e java script
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me - just don't :D 
